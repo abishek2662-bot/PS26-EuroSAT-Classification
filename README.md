@@ -1,0 +1,1 @@
+# PS26-EuroSAT-Classification
